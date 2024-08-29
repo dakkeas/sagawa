@@ -12,7 +12,7 @@ module.exports = {
     devtool: 'inline-source-map',
     // the webpack-dev-server provides you with a rudimentary web server and the ability to use live reloading. 
     // this tells webpack-dev-server to serve the files from the dist directory on localhost:8080
-    devserver: {
+    devServer: {
         static: './dist',
     },
     plugins: [

@@ -128,4 +128,4 @@ out
 .pnp.*
 
 dist
-node_modeles
+node_modules
